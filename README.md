@@ -1,4 +1,4 @@
-# UIII-Act-7
+# UIII-Act-7-modelo-Tienda-de-Ropa-No-Lista-4
 # diseño de dbdesigner
 **diseño de la relacion de tablas**
 <img width="986" height="700" alt="image" src="https://github.com/user-attachments/assets/88f7faa0-b02d-4495-bde0-fa5dcc3f334f" />
